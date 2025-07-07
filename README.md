@@ -23,38 +23,39 @@
 ### 🧠 Tech Stack
 
 #### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Shell Scripting](https://img.shields.io/badge/-Shell%20(Bash%2FZsh)-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Bash/Zsh-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### 🌐 Web & Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![REST API](https://img.shields.io/badge/-REST%20API-006B75?style=flat-square)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23006B75?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 #### 📱 Mobile & UI Tools
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)
+![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-#### 🧱 DevOps & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+#### ⚙️ DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### 🧠 Web3 / Blockchain (Basic)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchaindotcom)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Web3](https://img.shields.io/badge/-Web3-EB5424?style=flat-square)
+#### 🧠 Web3 / Blockchain
+![Blockchain](https://img.shields.io/badge/Blockchain-%23121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-%23EB5424?style=for-the-badge)
 
 #### 🎨 3D, Animation & Design
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 
 
 ---
@@ -76,6 +77,7 @@
 </p>
 
 ---
+
 
 ### 🚀 Let's Connect
 
