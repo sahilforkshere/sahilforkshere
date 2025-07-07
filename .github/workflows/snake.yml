@@ -1,15 +1,14 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: '0 0 * * *'        # Daily at midnight UTC
-  workflow_dispatch:          # Also lets you trigger manually
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
@@ -27,4 +26,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
