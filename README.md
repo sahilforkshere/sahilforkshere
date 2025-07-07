@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/luk4x/github-profile-readme-generator/blob/main/images/banner.png?raw=true" alt="Banner" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Sahil Pal</h1>
 <h3 align="center">🚀 Full Stack Developer | React Native Enthusiast | Open Source Contributor</h3>
 
