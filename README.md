@@ -77,7 +77,13 @@
 
 </p>
 
+
 ---
+
+### 📈 Yearly Contributions
+😛
+---
+
 
 
 ### 🚀 Let's Connect
