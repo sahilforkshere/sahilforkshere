@@ -1,11 +1,8 @@
-
 <h1 align="center">Hey 👋, I'm Sahil Pal</h1>
 <h3 align="center">🚀 Full Stack Developer | React Native Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Building+cool+projects+💻;React+%7C+Node+%7C+MERN+Stack+Dev;Always+learning+new+techs+⚡" alt="Typing SVG" />
-
-
 </p>
 
 ---
@@ -57,8 +54,6 @@
 ![Three.js](https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -74,12 +69,7 @@
 
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilforkshere&theme=react-dark" />
-
 </p>
-
-
-
-
 
 ---
 
@@ -89,18 +79,26 @@
 
 ---
 
-
-
 ### 🚀 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/sahil1008" target="_blank">
-    <img src="https://img.shields.io/badge/-Sahil%20Pal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilpal/" />
+  <a href="https://www.linkedin.com/in/sahil1008" target="_blank">
+    <img src="https://img.shields.io/badge/-Sahil%20Pal-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:paalsahil04@gmail.com">
-    <img src="https://img.shields.io/badge/-sahil@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-paalsahil04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sahilforkshere">
     <img src="https://img.shields.io/github/followers/sahilforkshere?label=Follow&style=social" />
   </a>
 </p>
+
+---
+
+### 💡 Know More About Me
+
+Want to see a fun, animated introduction with my portfolio info, skills, and links?  
+Try my CLI tool right from your terminal! Just run:
+
+```bash
+npx sahily
