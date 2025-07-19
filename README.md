@@ -56,6 +56,15 @@
 
 ---
 
+
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilforkshere&layout=compact&theme=radical&langs_count=10" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
