@@ -25,12 +25,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update snake animation"
-          user_name: "sahilforkshere"
-          user_email: "sahil@example.com"
-          keep_history: true
-          fqdn: ""
-          verbose: true
         env:
-          PERSONAL_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
 
