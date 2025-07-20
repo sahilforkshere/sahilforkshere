@@ -102,6 +102,13 @@
 
 ---
 
+## 📊 WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🚀 Let's Connect
 
 <p align="center">
