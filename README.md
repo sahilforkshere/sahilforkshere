@@ -9,7 +9,6 @@
 
 <img align="right" alt="coding-gif" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eac.gif" />
 
-- 🔭 I’m currently working on **a 1v1 Code Battle Platform**
 - 🌱 Learning DevOps, Microservices, and React Native (TS)
 - 🛠️ Love building full-stack MERN apps and SaaS tools
 - 💬 Ask me about **React, Firebase, MongoDB, Git**
@@ -56,7 +55,6 @@
 
 ---
 
-
 ### 📊 Most Used Languages
 
 <p align="center">
@@ -85,6 +83,14 @@
 ### 🌱 Yearly 3D Contributions
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilforkshere/sahilforkshere/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilforkshere/sahilforkshere/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sahilforkshere/sahilforkshere/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
