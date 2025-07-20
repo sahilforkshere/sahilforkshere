@@ -80,9 +80,13 @@
 
 ---
 
-### 🌱 Yearly 3D Contributions
+## 🌐 Interactive 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <picture>
@@ -94,6 +98,7 @@
       src="https://raw.githubusercontent.com/sahilforkshere/sahilforkshere/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 
 ---
 
