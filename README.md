@@ -107,8 +107,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           21 mins         █████████████▒░░░░░░░░░░░   53.03 %
-Common Lisp   19 mins         ███████████▓░░░░░░░░░░░░░   46.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
